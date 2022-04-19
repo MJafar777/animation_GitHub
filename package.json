@@ -1,0 +1,28 @@
+{
+  "name": "cinema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJafar777/Magic__Cinema.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MJafar777/Magic__Cinema/issues"
+  },
+  "homepage": "https://github.com/MJafar777/Magic__Cinema#readme",
+  "devDependencies": {
+    "parcel": "^2.4.1"
+  },
+  "dependencies": {
+    "core-js": "^3.22.0",
+    "lodash": "^4.17.21",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
